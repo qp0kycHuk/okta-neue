@@ -1,0 +1,12 @@
+{
+  "name": "@qpokychuk/okta-neue",
+  "version": "1.0.2",
+  "description": "fonts packages",
+  "main": "index.css",
+  "keywords": [
+    "fonts",
+    "okta-neue"
+  ],
+  "author": "Sergey Yuferov <serega990112@mail.ru>",
+  "license": "ISC"
+}
